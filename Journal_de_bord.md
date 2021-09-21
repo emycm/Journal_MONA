@@ -21,9 +21,18 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
+#### Semaine 3
+
+##### 21 septembre
+
+- 10h30 : Envoi du courriel pour la demande des données des œuvres publiques à Saint-Jean-sur-Richelieu. 
+- 
+
+
+
 #### Semaine 2
 
-##### 17 septembre
+##### 17 septembre (3,5)
 
 - 9h30 à 11h45 :  Rencontre zoom avec Lena
   - Initiation à différents logiciels web (GitHub, Typora et Visual Studio Code) et quelques bases rapides sur la constitution de sites web html / mark down (md).
@@ -39,7 +48,7 @@ Automne 2021 - HAR3360
 - Terminer premier billet de blogue - Introduction et présentation
 - Recherche pour le second billet 
 
-##### 16 septembre
+##### 16 septembre (3)
 
 - 12h à 13h: Dîner avec Lena à l'Université
   - Discussion sur la suite des évènements, du calendrier 
@@ -47,7 +56,7 @@ Automne 2021 - HAR3360
 - 18h à 20h: J’ai commencé la rédaction d’un billet de blogue de présentation, d’introduction.
   - J'ai choisi un public cible, qui répond du grand public, c'est-à-dire qui est non-initié à l'histoire de l'art et à ses grandes théories/critiques/etc.
 
-##### 14 septembre 
+##### 14 septembre (1,5)
 
 - 10h30 à 12h: Recherche d'idées pour le stage par utilisation de l’application dans Ville-Marie, familiarisation avec son contenu et son utilisation. 
 
@@ -57,12 +66,12 @@ Automne 2021 - HAR3360
 
 #### Semaine 1 - du 06 au 13 septembre 2021
 
-##### 10 septembre 
+##### 10 septembre (1,5)
 
 - 9h à 10h30: Lecture de la demande de subvention auprès du Conseil des arts de Montréal et le « Projet de résidence d'écriture critique en arts autochtones » 
   - afin de mieux comprendre le projet de MONA et le contenu de demandes de subventions gouvernementales
 
-##### 07 septembre
+##### 07 septembre (2,5)
 
 - 13h30 à 14h30: Rencontre avec Sarah
 - 14h30 à 15h : Écriture du courriel destiné au Service de la culture, du développement social et des loisirs de la ville de Saint-Jean-sur-Richelieu pour obtenir les données de géolocalisation de leurs œuvres publiques - à montrer à Lena
