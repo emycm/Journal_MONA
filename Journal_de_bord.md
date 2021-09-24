@@ -29,10 +29,18 @@ Automne 2021 - HAR3360
 
 #### Semaine 3 - du 20 au 26 sept. (h)
 
-##### 24 septembre ()
+##### 24 septembre (4,5)
 
-- 9h30 : Rencontre zoom avec Lena
-  - 
+- 9h30 à 11h45: Rencontre zoom avec Lena
+  - envoi réponse et « contrat » à sjsr
+  - publication 1er billet de blogue
+- 12h à 13h30: ajout de contenu dans le 1er billet suite aux commentaires de Lena.  
+  - Essai-erreur pour comprendre le fonctionnement des hyperliens dans Visual Code 
+
+à faire pour le 1er oct.
+
+- choisir les oeuvres sur lesquelles travailler pour le second billet 
+- Développer un plan avec idées, recherche. 
 
 ##### 23 septembre (2h)
 
