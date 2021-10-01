@@ -27,7 +27,36 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 3 - du 20 au 26 sept. (h)
+#### Semaine 4 - du 27 sept. au 03 oct. (h)
+
+##### 01 octobre ()
+
+- 10h30 à 13h : Zoom avec Lena. Recherche et discussion sur le prochain billet, publication prévue le 08 octobre, et les enjeux entourant les monuments. Discussion sur les tags dans l'application (à appliquer sur les œuvres, les artistes, les deux?). Organiser la réflexion autour des œuvres 
+  -  Zotero: Brève introduction au logiciel, a son fonctionnement et avantages. Création d'un groupe MONA pour mettre en commun les sources, lectures, œuvres, etc.
+       -  Initier et développer la réflexion sur les tags dans l'application lors de l'ajout œuvres (sous « marqueurs » ) et sur les notices, faits importants et intéressants (sous « notes ») dans Zotero.
+- 13h à 13h30: Changement de la photo pour le premier billet de blogue et correction d'erreurs. 
+  - Je commence à comprendre davantage le fonctionnement de Visual Code et de Github avec le travail sur le blogue. 
+
+
+
+À faire pour le 08 oct. :
+
+- Poursuivre recherche et lecture sur les œuvres --­ aller voir les œuvres sur place
+- Écrire le second billet de blogue et « publication » sur la page html (non-officielle)
+
+##### 30 septembre (2)
+
+- 17h à 19h: Rencontre avec Lena, travail sur la demande pour la Résidence d'écriture critique en art autochtone. 
+  - budget, mission de l'organisme et révision texte. Permet de mieux comprendre le fonctionnement et le processus d'une telle demande. 
+
+##### 29 septembre (3)
+
+- 10 à 12h : Recherche œuvres  à analyser pour le second billet de blogue (Art public Montréal, Bureau d'art public, application MONA, etc.). Prise en note œuvres à aller voir en personne et recherche de matériel complémentaire.
+  - Je pense pas traiter immédiatement des monuments et des enjeux entourant ce type œuvre dans le second billet. Il y aurait assez de matériel pour une entrée entièrement dédiée.
+  - j'ai de la difficulté à trouver des œuvres illustrant la diversité dans la catégorie « Beaux-Arts » sur les sites du Bureau d'art public ou d'Art public Montréal. 
+- 12h à 13h: Définition d'un plan et des étapes du prochain billet. 
+
+#### Semaine 3 - du 20 au 26 sept. (9,5h)
 
 ##### 24 septembre (4,5)
 
@@ -47,9 +76,9 @@ Automne 2021 - HAR3360
 - 19h à 21h: Ajout de précisions et retouche syntaxe du premier billet de blogue suite aux commentaires des personnes auxquelles j'ai montré ce dernier. Ajout de définitions et de sources, afin de lui donner un penchant plus académique. 
   
      - Mettre des propositions de lectures pour approfondir le sujet ? 
-    
+      
      - Lectures sur le sujet de l'art public
-    
+      
        https://www.cairn.info/revue-l-observatoire-2010-1-page-3.htm?contenu=article, https://www.espacestemps.net/articles/art-public-dans-la-ville/, https://www.erudit.org/fr/revues/etc/1998-n42-etc1114765/464ac.pdf.
   
 - Lectures pertinentes pour un prochain billet:
