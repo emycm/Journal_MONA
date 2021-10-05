@@ -17,9 +17,9 @@ Automne 2021 - HAR3360
 
 24 septembre : Publication billet « Présentation »
 
-1er ou 8 octobre (?): 2e billet, « Beaux-Arts » 
+08 octobre: 2e billet, « Beaux-Arts » 
 
-22 octobre: 3e billet, « Murales »
+? octobre: 3e billet, « Murales »
 
 5 novembre: 4e billet, « Arts décoratifs » 
 
@@ -27,9 +27,21 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 4 - du 27 sept. au 03 oct. (h)
+#### Semaine 5 - du 04 au 10 oct. ()
 
-##### 01 octobre ()
+##### 05 octobre (5)
+
+- 11h à 16h: Recherche et lecture sur les œuvres choisies. et début de la rédaction du second billet sur les Beaux-Arts dans l'art public. 
+  - Voir https://www.erudit.org/fr/revues/espace/1989-v5-n3-espace1047186/9464ac/ et https://www.erudit.org/fr/revues/va/1964-n37-va1205292/58446ac/ sur Witebsky
+
+##### 04 octobre (2)
+
+- 10h à 12h: Je suis allée voir les œuvres d'art public que j'ai choisies pour le second billet. Prise de notes et photos de trois œuvres (*Give Peace a Chance* de Linda Covit, *Sculpture bidon* de Valérie Blass et *Sans titre* de Shirley Witebsky). J'ai également profité de l'occasion pour voir la collection présente sur le mont Royal et autour du Musée des Beaux-Arts de Montréal, peut-être pour un billet ultérieur ou simplement pour agrandir ma collection personnelle dans MONA. 
+  - J'avais d'abord l'intention de concentrer mon analyse sur les œuvres de Covit et Blass, mais lorsque j'ai vu les sculptures du Symposium international de 1964, sur le Mont-Royal, j'ai décidé d'inclure œuvre de Witebsky. Un bref survol de la littérature au sujet de cette sculpture et de la participation, accidentelle, de cette artiste dans un groupe exclusivement masculin m'a également convaincue. 
+
+#### Semaine 4 - du 27 sept. au 03 oct. (8h)
+
+##### 01 octobre (3)
 
 - 10h30 à 13h : Zoom avec Lena. Recherche et discussion sur le prochain billet, publication prévue le 08 octobre, et les enjeux entourant les monuments. Discussion sur les tags dans l'application (à appliquer sur les œuvres, les artistes, les deux?). Organiser la réflexion autour des œuvres 
   -  Zotero: Brève introduction au logiciel, a son fonctionnement et avantages. Création d'un groupe MONA pour mettre en commun les sources, lectures, œuvres, etc.
@@ -76,9 +88,9 @@ Automne 2021 - HAR3360
 - 19h à 21h: Ajout de précisions et retouche syntaxe du premier billet de blogue suite aux commentaires des personnes auxquelles j'ai montré ce dernier. Ajout de définitions et de sources, afin de lui donner un penchant plus académique. 
   
      - Mettre des propositions de lectures pour approfondir le sujet ? 
-      
+     
      - Lectures sur le sujet de l'art public
-      
+     
        https://www.cairn.info/revue-l-observatoire-2010-1-page-3.htm?contenu=article, https://www.espacestemps.net/articles/art-public-dans-la-ville/, https://www.erudit.org/fr/revues/etc/1998-n42-etc1114765/464ac.pdf.
   
 - Lectures pertinentes pour un prochain billet:
