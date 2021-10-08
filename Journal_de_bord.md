@@ -27,7 +27,22 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 5 - du 04 au 10 oct. ()
+#### Semaine 5 - du 04 au 10 oct. (16)
+
+##### 08 octobre (4)
+
+- 10h30 à 14h: Zoom avec Lena. J'ai copié/collé mon texte de blogue dans Visual Code au lieu de l'Exporter en html et je dois réviser et corriger le formats et la présentation. Révision et derniers ajouts au texte. 
+  -  Possibilité de rédiger des posts Instagram/Facebook (image/images avec commentaire) afin de partager certaines critiques/impressions/faits intéressants sur des œuvres que je vais visitées, mais dont je n'ai pas discuté dans le blogue. Parler à Sarah à ce sujet (ex. Give Peace a Chance de Covit).
+  - Je me rends compte que les billets de blogue et la préparation derrière ceux-ci prennent beaucoup de temps. Je trouve constamment de nouveaux éléments/points/thèmes à approfondir et à traiter. Discussion sur l'échéancier avec Lena lors du zoom. Publication du 3e billet au retour de la semaine de lecture (29 oct au lieu du 22 oct.). 
+- À faire pour la semaine 6 :
+  - recherche sur la murale. Choix et lectures sur les œuvres. Aller les voir. **Explorer la question de la légalité/des commanditaires des murales vs graffitis (démystification et clarification des différences) et de la question symbolique contenue dans l'emplacement des œuvres.** 
+
+##### 07 octobre (5) 
+
+- 18h à 23h: Rédaction billet blogue, lectures, etc. J'ai dû faire des choix quant au contenu à présenter dans le billet de blogue, afin de garder la lecture aisée et pas trop longue. J'ai donc concentrer mon analyse sur les oeuvres de Blass et Witebsky. 
+- Je cherche constamment des sources, à la fois académiques et faciles d'approche pour un public plus ou moins averti, lorsque je traite de notions plus théoriques, sans toutefois avoir l'intention de les définir exhaustivement (ex. essentialisme, rapport pouvoir entre spectateur et objet de regard/modèle).
+  -  https://journals.openedition.org/culturemusees/1287 
+  - https://www.cairn.info/revue-cahiers-du-genre-2007-2-page-5.htm 
 
 ##### 05 octobre (5)
 
