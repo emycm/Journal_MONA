@@ -27,6 +27,14 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
+#### Semaine 6- du 11 au 17 oct. ()
+
+##### 11 octobre (2)
+
+- 14h à 16h: Peaufiner et amélioration 2e billet suite aux commentaires de Lena. 
+           - À voir comment répondre sur Hypothesis. 
+           - Rédaction d'un court résumé du blogue, que j'ai envoyé à Sarah pour la publication Facebook, et choix d'une photo.
+
 #### Semaine 5 - du 04 au 10 oct. (16)
 
 ##### 08 octobre (4)
