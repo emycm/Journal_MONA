@@ -15,19 +15,27 @@ Automne 2021 - HAR3360
 
 Ébauche d'un calendrier pour la publication des billets et leur sujet
 
-24 septembre : Publication billet « Présentation »
+24 septembre : Publication billet « Présentation » [Fait]
 
-08 octobre: 2e billet, « Beaux-Arts » 
+08 octobre: 2e billet, « Beaux-Arts » [Fait]
 
-? octobre: 3e billet, « Murales »
+29 octobre: 3e billet, « Murales »
 
-5 novembre: 4e billet, « Arts décoratifs » 
+12 novembre: 4e billet, « Arts décoratifs » 
 
-19 novembre: 5e billet, sujet à déterminer (Les Monuments/ Les inclassables (graffitis, etc.))
+ 26 novembre: 5e billet, sujet à déterminer (monuments?)
+
+6e billet, 10 décembre?
 
 ## Bilans hebdomadaires
 
 #### Semaine 6- du 11 au 17 oct. ()
+
+##### 12 octobre (2)
+
+- Début de la recherche d'œuvres et de matériel théorique sur les murales à Montréal.
+  - Beaucoup de murales ont été réalisées par des artistes autochtones et/ou portent sur des sujets ayant trait aux Premières nations. Possibilité de mettre l'accent sur cette production dans ce billet, car le sujet est riche et très intéressant. 
+  - Je remarque que beaucoup de murales sont dédiées à l'hommage d'une personne, à la manière de monuments peints. Or, la grande majorité de ces hommages sont dédiés à des femmes, du moins à ce que je vois sur le site du Bureau d'art public. Y-a-t-il un lien à faire entre la murale (medium moindre, issu du *street art*) et l'hommage à des femmes/personnages issu·e·s de la diversité vs les monuments sculpturaux traditionnels, commémorant typiquement des hommes blancs?
 
 ##### 11 octobre (2)
 
