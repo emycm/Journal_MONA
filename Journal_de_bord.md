@@ -29,10 +29,34 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 6- du 11 au 17 oct. ()
+#### Semaine 6- du 11 au 17 oct. (10)
 
-##### 12 octobre (2)
+##### 15 octobre (3)
 
+- 9h30 à 11h30: Zoom avec Lena. Discussion sur le projet du troisième billet et de mon intention de travailler sur la représentation autochtone dans la ville, à travers les murales. 
+
+     - Après discussion, je vais écrire une première version du billet à montrer lors de la session de travail d'équipe de mercredi, 20 octobre, afin d'avoir le temps de faire lire le texte à différentes personnes et de rectifier des erreurs/nuancer/etc. étant donné qu'il peut s'agir d'un sujet délicat à aborder depuis une position blanche.
+     - importance de présenter et d'exprimer ces réflexions, incertitudes, nuances, questionnements, etc.  autant en ce qui concerne l'art autochtone que la question de l'identité, de la biographie de l'artiste...
+               - Comment aborder la diversité ou n'importe quel sujet à partir d'une perspective extérieure? Est-il possible de traiter de la présence autochtone dans l'art public sans nécessairement parler d'un point de vue autochtone? Importance de nuancer ses propos et de définir la perspective à partir de laquelle je m'exprime, sans pour autant m'empêcher de traiter d'une telle question.
+               - Voir « Le Québec qui est né dans mon pays », bande-dessinée par Emmanuelle Dufour. Traite du discours blanc, et décolonial, sur la question autochtone et la difficulté parfois éprouvée dans la constitution d'un tel discours.  
+
+- Discussion sur le Conseil des Arts de Montréal et de la demande de subvention à faire prochainement (1er décembre). 
+
+     - Demande en tant que diffuseurs (de l'art public)
+
+     - Importance des partenariats et de choisir un projet à développer.
+
+       - Ajout d'œuvres (éphémères, numériques, visibles la nuit) par les utilisateurs et utilisatrices?Trouver des artistes plus ou moins reconnu.e.s qui voudraient documenter leur propre travail dans MONA... Ce qui soulève la question de la légalité/l'illégalité du travail effectué (*street art*, graffiti). 
+
+          Trouver (rapidement) des organismes, festivals, etc. avec qui se jumeler pour documenter et diffuser les œuvres qui y sont produites.
+
+##### 14 octobre (2)
+
+- Rencontre avec Lena, travail et réflexion sur la demande de subvention *Connexion* https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/connection_grants-subventions_connexion-fra.aspx.
+
+##### 12 octobre (3)
+
+- 
 - Début de la recherche d'œuvres et de matériel théorique sur les murales à Montréal.
   - Beaucoup de murales ont été réalisées par des artistes autochtones et/ou portent sur des sujets ayant trait aux Premières nations. Possibilité de mettre l'accent sur cette production dans ce billet, car le sujet est riche et très intéressant. 
   - Je remarque que beaucoup de murales sont dédiées à l'hommage d'une personne, à la manière de monuments peints. Or, la grande majorité de ces hommages sont dédiés à des femmes, du moins à ce que je vois sur le site du Bureau d'art public. Y-a-t-il un lien à faire entre la murale (medium moindre, issu du *street art*) et l'hommage à des femmes/personnages issu·e·s de la diversité vs les monuments sculpturaux traditionnels, commémorant typiquement des hommes blancs?
