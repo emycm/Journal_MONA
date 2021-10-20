@@ -29,6 +29,17 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
+#### Semaine 7 - du 18 au 24 oct. ()
+
+##### 19 octobre (4)
+
+- 12h à 16h : Rédaction du billet (premier jet) et particulièrement de l'analyse d'oeuvres. J'ai choisi de me concentrer sur l'initiative *Unceded Voices*, mais comme il s'agit d'un évènement plus ou moins en marge des festivals et des mesures officielles, la documentation est plus difficile à trouver. Le site web officiel de l'évènement ne fonctionne plus. 
+- Il y a un dilemme dans le fait de vouloir parler de ces œuvres qui sont mal connues/documentées, mais d'être confrontée à un manque de documentation disponibles sur celles-ci. Je ne comprends pas pourquoi seulement deux œuvres (celle de Sabogal et de Strauss) sont répertoriées sur le site d'Art public Montréal. Qu'est-ce qui a motivé la documentation de ces deux murales et non pas des autres qui ont été créées durant l'édition 2017 de *Voix insoumises*?
+
+##### 18 octobre (6)
+
+- 10h à 16h: Rédaction du troisième billet de blogue sur les murales et l'art autochtone. Je trouve beaucoup de documentations sur les graffitis et le street art durant mes recherches. Je vais inclure des définitions et nuances avec la description de la murale, car je pense que la distinction légale entre la murale et le graffiti est intéressante et très riche.
+
 #### Semaine 6- du 11 au 17 oct. (10)
 
 ##### 15 octobre (3)
