@@ -29,7 +29,15 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 7 - du 18 au 24 oct. ()
+#### Semaine 8 - du 25 au 31 oct. ()
+
+##### 25 octobre ()
+
+- 9h à 10h: Visite des murales de *Voix insoumises* 2017 et j'ai pu constater l'évolution des oeuvres et la disparition de deux murales, qui ont été recouvertes. J'ai aussi eu de la difficulté à trouver la majorité des oeuvres, car elles ne sont pas répertoriées sur MONA ou le site d'Art public Mtl. 
+  - Ajout des coordonnées des murales (encore existantes) sur MONA?
+- 11h à 13h: Relecture et derniers ajouts sur le troisième billet avant de l'envoyer à Lena. 
+
+#### Semaine 7 - du 18 au 24 oct. (10)
 
 ##### 19 octobre (4)
 
@@ -48,8 +56,9 @@ Automne 2021 - HAR3360
 
      - Après discussion, je vais écrire une première version du billet à montrer lors de la session de travail d'équipe de mercredi, 20 octobre, afin d'avoir le temps de faire lire le texte à différentes personnes et de rectifier des erreurs/nuancer/etc. étant donné qu'il peut s'agir d'un sujet délicat à aborder depuis une position blanche.
      - importance de présenter et d'exprimer ces réflexions, incertitudes, nuances, questionnements, etc.  autant en ce qui concerne l'art autochtone que la question de l'identité, de la biographie de l'artiste...
-               - Comment aborder la diversité ou n'importe quel sujet à partir d'une perspective extérieure? Est-il possible de traiter de la présence autochtone dans l'art public sans nécessairement parler d'un point de vue autochtone? Importance de nuancer ses propos et de définir la perspective à partir de laquelle je m'exprime, sans pour autant m'empêcher de traiter d'une telle question.
-               - Voir « Le Québec qui est né dans mon pays », bande-dessinée par Emmanuelle Dufour. Traite du discours blanc, et décolonial, sur la question autochtone et la difficulté parfois éprouvée dans la constitution d'un tel discours.  
+              - Comment aborder la diversité ou n'importe quel sujet à partir d'une perspective extérieure? Est-il possible de traiter de la présence autochtone dans l'art public sans nécessairement parler d'un point de vue autochtone? Importance de nuancer ses propos et de définir la perspective à partir de laquelle je m'exprime, sans pour autant m'empêcher de traiter d'une telle question.
+                   - Voir « Le Québec qui est né dans mon pays », bande-dessinée par Emmanuelle Dufour. Traite du discours blanc, et décolonial, sur la question autochtone et la difficulté parfois éprouvée dans la constitution d'un tel discours.  
+                   - https://www.ficsum.com/dire-archives/ete-2019/arts-lart-autochtone-dans-les-rues-de-montreal/ 
 
 - Discussion sur le Conseil des Arts de Montréal et de la demande de subvention à faire prochainement (1er décembre). 
 
