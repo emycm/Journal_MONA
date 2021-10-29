@@ -29,9 +29,23 @@ Automne 2021 - HAR3360
 
 ## Bilans hebdomadaires
 
-#### Semaine 8 - du 25 au 31 oct. ()
+#### Semaine 8 - du 25 au 31 oct. (9)
 
-##### 25 octobre ()
+##### 29 octobre (5)
+
+- 9h30 à 11h30: Zoom avec Lena, discussion sur le troisième billet, le prochain billet à venir et le projet de cartographie des oeuvres (carte bixi).
+
+- 13h30 à 16h: Transfert du texte pour le blogue sur les murales dans Visual Code, rectification d'erreurs de frappe, de styles. Ajustement des photos et des codes visuels. Corrections suite aux commentaires dans Hypothesis. 
+
+  À faire: 
+
+- Entrer les données des œuvres de *Voix insoumises* dans le fichier excel afin de les intégrer dans le catalogue de MONA.
+
+- Débuter la recherche sur les œuvres décoratives pour le 4e billet.
+
+- Penser à des idées pour la demande de subvention à déposer pour le 1er dec.
+
+##### 25 octobre (4)
 
 - 9h à 10h: Visite des murales de *Voix insoumises* 2017 et j'ai pu constater l'évolution des oeuvres et la disparition de deux murales, qui ont été recouvertes. J'ai aussi eu de la difficulté à trouver la majorité des oeuvres, car elles ne sont pas répertoriées sur MONA ou le site d'Art public Mtl. 
   - Ajout des coordonnées des murales (encore existantes) sur MONA?
