@@ -19,15 +19,32 @@ Automne 2021 - HAR3360
 
 08 octobre: 2e billet, « Beaux-Arts » [Fait]
 
-29 octobre: 3e billet, « Murales »
+29 octobre: 3e billet, « Murales » [Fait]
 
-12 novembre: 4e billet, « Arts décoratifs » 
+19 novembre: 4e billet, « Monuments, part 1 » 
 
- 26 novembre: 5e billet, sujet à déterminer (monuments?)
-
-6e billet, 10 décembre?
+Début décembre: 5e billet, « Monuments, part 2 »
 
 ## Bilans hebdomadaires
+
+#### Semaine 9 - du 01er au 07 nov. (7,5)
+
+##### 05 novembre (5,5)
+
+- J'ai eu très peu de temps à consacrer à mon stage cette semaine et il m'apparait une certaine difficulté à balancer l'ensemble de mes autres cours avec le travail effectué dans le cadre de mon stage. 
+- J'ai débuté le plan pour le 4e (et 5e) billet de blogue, qui porterait sur les monuments, en deux parties. Je suis incertaine quant à cette idée: si je trouve le sujet très riche et assez vaste pour l'aborder en deux segments, est-ce que ce ne sera pas trop redondant pour les lecteurs-rices?
+- 9h30 à 12h: Rencontre zoom avec Lena et Julie pour la préparation de la demande de subvention du Conseil des arts de Montréal. 
+  - Présentation du plan pour les deux prochains billets à Lena et discussion sur la suite. 
+  - Idées de lectures, ressources intéressantes: Monument Lab, les conférences d'Harriet F Steenie -->notes sur Typora à partager.
+- 12h à 14h : Poursuite de l'exploration des œuvres dans MONA et Art public Montréal. 
+
+##### 04 novembre (2)
+
+- Début de la recherche d'œuvres pour le 4e billet de blogue. Selon mon idée initiale, cette entrée devrait se consacrer à la catégorie des arts décoratifs, une idée qui m'intéressait particulièrement, car les arts décoratifs sont souvent oubliés. L'Idée d'un texte sur ce type d'œuvres m'apparaissait comme une occasion d'aborder la hiérarchie artistique et la réserve envers les arts décoratifs, souvent vus comme « moindres » à cause de leur fonction décorative. Il s'agit cependant un élément que j'ai déjà abordé, bien que rapidement, dans le cadre du second billet dédié aux beaux-arts. Il semble aussi difficile de trouver une piste d'approche axée sur la diversité...
+
+- Peut-être faire deux entrées sur les monuments ? La première serait dédiée à l'explication du débat et de la problématique actuelle, introduction aux théories décoloniales, etc.
+
+  Tandis que le second pourrait s'attarder à une perspective nouvelle dans les monuments?  
 
 #### Semaine 8 - du 25 au 31 oct. (9)
 
