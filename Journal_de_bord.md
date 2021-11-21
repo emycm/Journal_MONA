@@ -27,7 +27,56 @@ Début décembre: 5e billet, « Monuments, part 2 »
 
 ## Bilans hebdomadaires
 
-#### Semaine 9 - du 01er au 07 nov. (7,5)
+#### Semaine 11 - du 15 au 21 nov. 
+
+##### 16 novembre (5)
+
+- 10 à 15h: (début) rédaction 4e billet (tout en continuant à lire des nouvelles sources)
+- Il me faut faire certains choix quant au corps du texte. Le sujet est si vaste et peut prendre plusieurs directions. Il me faut trouver une façon d'intégrer les notions théoriques tout en traitant des oeuvres. 
+
+##### 18 novembre (9)
+
+- 9h à 12h: Prise de photos des oeuvres à différents endroits de Montréal (Macdonad, Victoria X2, Dollard des Ormeaux, Maissonneuve.)
+
+- 4h à 9h: Finition de la rédaction, ajout de photos, légendes, etc. 
+
+  Je devrais prendre de nouvelles photos de la carte avec les oeuvres du dernier billet.
+
+##### 19 novembre (5)
+
+- 10h30-11h : zoom avec Lena. 
+
+  6e billet de rétroaction sur le stage --> impressions, ce que j'ai retenu de mes recherches de blogue, travail de compilation sources/oeuvres dans Zotéro, Cartographie des oeuvres (photos). Afin de clore ma série de textes sur le blogue. Decembre: date?
+
+- 11h à 15h: Transfert texte sur Visual Code. Droits de certaines photos sont à revoir avec Lena (Wikicommon et No Borders Media). 
+
+#### Semaine 10 - du 08 au 14 nov. (13,5)
+
+##### 12 novembre (6)
+
+- 10h à 12h: Rencontre zoom avec Lena et Julie. Discussion sur la demande de subvention du CAM et du prochain billet à venir.
+-  Courriel à Analays pour enregistrement forum BANQ - 2019? Courriel à la Charrette du CCA pour enregistrement séance ouverture 11 nov. en ligne pour la proposition du futur du monument de John A. Macdonald?
+- 12h à 14h: Rédaction et envoi courriels, lectures sur les monuments. 
+- 15h à 16h: Expérimentation pour « projet » cartographie sur une carte papier *bixi* des œuvres d'art public visitées lors de mes recherches pour les différents billets de blogue. Le processus est intéressant, sinon ludique, car il permet de voir les aires de la ville qui sont privilégiées lors de mes recherches. Il apparait clairement que mon centre d'attention se déplace de l'ilôt Bonaventure, au Mont-Royal et ses alentours, puis au quartier Saint-Henri. 
+  - mauve = billet introduction et présentation
+  - bleu marine = billet Beaux-arts
+  - jaune = billet murales
+  - noir = œuvres disparues
+
+##### 10 novembre (1.5)
+
+- 14h30 à 16h: Visionnement de la conférence/présentation enregistrée sur Youtube [“Contested Legacies: Public Monuments in Global Perspective.” Columbia University.](https://www.youtube.com/watch?v=8HoArGwavmI) (October 8, 2020) où Harriet F. Senie est un *panel respondent*. 
+      - Points intéressants, notamment par 
+
+##### 09 novembre (6)
+
+- 11h à 13: Recherche d'œuvres, navigation sur les catalogues en ligne et parcours des monuments. Création d'une bibliographie sur le sujet, lectures et conférences. J'ai écris à Analays et elle m'a suggéré quelques titres. 
+- Le monument en art public, la commémoration et la décolonisation sont des sujets énormément larges et riches, particulièrement depuis les dernières années. Ce type de préparation pour le billet suivant nécessite un tri des sources et une analyse distinctives des différents titres, afin d'effectuer un tri rapide et de ne pas crouler sous la masse d'information, tant universitaire et intellectuelle, que populaire. 
+- Mise à jour de Zotero et ajout de sources.
+- 14h à 16h: Ajout de données des œuvres sur lesquelles j'ai travaillées dans le blogue et qui n'étaient pas répertoriées dans MONA (5 murales de Voix insoumises et 1 sculpture de Nadia Myre). Les dimensions et les techniques peuvent être plus difficiles à trouver. Possibilité de contacter les artistes directement?
+      - Il serait intéressant d'ajouter une catégorie « matériaux », de pair avec celle des « techniques », qui sont un peu inséparables. 
+
+#### Semaine 9 - du 01 au 07 nov. (7,5)
 
 ##### 05 novembre (5,5)
 
