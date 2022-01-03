@@ -21,13 +21,85 @@ Automne 2021 - HAR3360
 
 29 octobre: 3e billet, « Murales » [Fait]
 
-19 novembre: 4e billet, « Monuments, part 1 » 
+19 novembre: 4e billet, « Monuments, part 1 » [fait]
 
-Début décembre: 5e billet, « Monuments, part 2 »
+Début décembre: 5e billet, « Monuments, part 2 »  [fait]
+
+Début janvier: 6e billet, « Conclusion »
+
+20 janvier: Rapport de stage
 
 ## Bilans hebdomadaires
 
-#### Semaine 11 - du 15 au 21 nov. 
+#### Semaine 16 - du 03 au 09 janv. 2022 
+
+##### 03 janv. 
+
+- Ajout des semaines manquantes au journal de bord. J’avais continué la consignation de mes activités dans le cadre du stage sur papier, mais je n’avais pas mis les idées au propre. 
+- Début rédaction rapport de stage. 
+
+20 décembre - *Fin du stage*
+
+#### Semaine 15 - du 13 au 19 dec. (5)
+
+##### 17 décembre (3)
+
+- début de rédaction du 6e billet de conclusion. Mise par écrit d’éléments à aborder et plan afin de ne pas les oublier lorsque j’effectuerais la rédaction au propre au début janvier.
+
+##### 16 décembre (1)
+
+- quelques ajouts suite aux commentaires de Lena et relecture finale. Publication du 5e billet.
+
+##### 15 décembre (1)
+
+- rectification de certaines phrases et modifications suite aux commentaires de Lena. 
+
+#### Semaine 14 - du 6 au 12 dec. (17)
+
+##### 11 et 12 décembre (5)
+
+- transfert de mon texte sur Visual Code, correction de certaines erreurs de style et ajout de photos, de liens web. 
+
+##### 10 décembre (8)
+
+- 9h à 16h: Rédaction du billet 5, lectures. J’ai été confrontée au besoin d’organisation du temps alors que mes différents cours nécessitent des remises de travaux finaux et des examens au même moment où je voulais rédiger et finaliser mes entrées de blogue. Je me suis rendue à l’évidence que si je voulais rédiger un billet complet et intéressant, il me faudrait prendre un peu plus de temps et repousser sa publication. Ainsi, le 03 et le 10 dec, j’ai choisi de réserver le temps autrefois consacré aux rencontres zoom avec Lena à mon travail en lien avec le stage, me permettant d‘avoir plus de temps à y mettre sans compromettre mes autres travaux ou mes textes de blogue. 
+
+##### 08 décembre (4)
+
+- prise de photos dans la ville pour le billet 5. J’ai été voir divers monuments à travers Montréal, soit le *Totem* de Charles Joseph, *In Memoriam I et II*, *La Réparation*, *Daleth*, *Mémoire ardente*, *Marguerite Bourgeoys*. 
+
+#### Semaine 13 - du 29 nov. au 5 dec. (9)
+
+##### 03 décembre (4)
+
+- Navigation des catalogues en ligne d’Art public Montréal, de Mona, etc. afin de trouver les oeuvres auxquelles je veux m’attarder dans le prochain billet. 
+           - monument de guerre? monument abstrait? monument à des personnes issues de la diversité ? des               monuments non sculpturaux?
+- Travail sur Zotéro, ajout de nouvelles oeuvres d’art public dont j’ai traité dans mes textes de blogue ou auxquelles je me suis intéressé. Élaboration de *tags*, tant sur l’artiste que sur l’oeuvre en elle-même. 
+
+##### 30 novembre (5)
+
+- 10h à 11h30: Discussion avec Joel Chiarello au sujet de mon 4e billet et particulièrement sur la colonisation, décolonisation et post-colonisation et leurs implications, nuances. Notre discussion m’a permis de mettre en lumière certaines difficultés avec ces concepts et de les rectifier dans mon texte avant sa mise en ligne officielle. Prise de notes subséquente pour ne pas oublier les notions intéressantes. J’ai pu utiliser Hypothesis - plus longuement que seulement pour des commentaires - lors de ma discussion afin de noter mon texte de blogue.
+- 12h à 15h: modifications et finalisation du 4e billet
+
+#### Semaine 12 - du 22 au 28 nov. (7)
+
+##### 26 novembre ()
+
+- 9h30 : zoom avec Lena. discussion sur le prochain billet, la (contre) cartograhie, le monument de guerre. 
+
+##### 25 novembre (1,5)
+
+- 17h à 18h30: Élaboration d’un plan pour le 5e billet de blogue. 
+
+###### Lectures préalables sur le sujet des (contre) monuments. Cette semaine, je m’attarde surtout aux textes et aux travaux de Cento-Bull et Clarke, de Zistel, de Young et d’Analays A.H. La prise de notes et les lectures m’ont occupé cette semaine, en vue de la rédaction du 5e billet. (env. 5,5)
+
+#### Semaine 11 - du 15 au 21 nov. (24)
+
+##### 19 novembre (4)
+
+- 10h30: zoom avec Lena.
+- 11h à 14h : Ajout au 4e billet et première publication sur Visual Code (je cherche encore des photos pour certains monuments. Recours à des photographies libre de droit: Wikicommon, No borders Media, etc.)
+- 18h30: présence à la fermeture (zoom) de la Charrette 2021 (discussion sur les projets gagnants et mot de fermeture.)
 
 ##### 16 novembre (5)
 
